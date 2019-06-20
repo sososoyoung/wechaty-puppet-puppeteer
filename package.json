@@ -60,7 +60,7 @@
     "file-box": "^0.8.24",
     "memory-card": "^0.6.2",
     "normalize-package-data": "^2.4.0",
-    "pkg-jq": "^0.2.2",
+    "pkg-jq": "^0.2.4",
     "pkg-up": "^3.1.0",
     "shx": "^0.3.1",
     "tstest": "^0.4.2",
